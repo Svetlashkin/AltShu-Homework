@@ -1,0 +1,19 @@
+.text-blue {
+    font-weight: bold;
+    background-color: LightSkyBlue;
+    color: MidnightBlue; 
+    font-family: Roboto, Arial, Helvetica, sans-serif; 
+  }
+  
+  .text-italic {
+    font-style: italic;
+    color: 	Purple;
+  }
+
+  .text-montserrat {
+    font-family: Montserrat, Arial, Helvetica, sans-serif;
+  }
+
+  .text-rubik {
+    font-family: Rubik, Arial, Helvetica, sans-serif;
+  }
