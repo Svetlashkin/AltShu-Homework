@@ -1,0 +1,23 @@
+div {
+    background-color: rgb(70, 80, 136);
+    border: 3px solid black;
+    width: 700px;
+    height: fit-content;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+}
+
+li {
+    border: 2px solid white;
+    color: white;
+    padding: 10px;
+    height: fit-content;
+    width: 15%;
+    text-align: center;
+}
